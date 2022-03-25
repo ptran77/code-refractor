@@ -39,7 +39,7 @@ Refracting the Horisen html and css files to meet web accsibility standards with
 
 ## Screenshot
 
-<img src="./assets/images/page-demo.png" width="400">
+<img src="./assets/images/webpage.png" width="400">
 
 ---
 
