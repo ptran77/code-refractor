@@ -47,4 +47,4 @@ Refracting the Horisen html and css files to meet web accsibility standards with
 
 ## Page Link
 
-Link: <a href="https://ptran77.github.io/code-refractor/">https://ptran77.github.io/code-refractor//</a>
+Link: <a href="https://ptran77.github.io/code-refractor/">https://ptran77.github.io/code-refractor/</a>
